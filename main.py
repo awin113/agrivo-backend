@@ -77,7 +77,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 7.0",
                 "season": "Spring / Warm climates",
                 "tip": "Ideal for cultivation in regions with warm climates. Flourishes when planted in clay loam mixed with rice husk during spring. Requires soil pH levels ranging between 6 and 7 for optimal growth.",
-                "image_filename": "tomato.png"
+                "image_filename": "tomato.jpg"
             },
             {
                 "id": "bell_pepper",
@@ -86,7 +86,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 7.0",
                 "season": "Throughout the growing season",
                 "tip": "Suitable for cultivation throughout the growing season in clay loam mixed soil. Ensure proper drainage to prevent waterlogging, a common issue in clay soils. Maintain soil moisture consistently, especially during the flowering and fruiting stages.",
-                "image_filename": "bell_pepper.png"
+                "image_filename": "bell_pepper.jpg"
             },
             {
                 "id": "beans",
@@ -95,7 +95,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 7.0",
                 "season": "After the last frost date",
                 "tip": "Beans thrive in clay loam mixed with rice husk, providing a sturdy support system for climbing varieties. Plant seeds directly into well-prepared clay loam mixed soil after the last frost date. Adequate sunlight and regular watering are essential for healthy bean production.",
-                "image_filename": "beans.png"
+                "image_filename": "beans.jpg"
             }
         ]
     },
@@ -118,7 +118,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 6.7",
                 "season": "Year-round (best October to February)",
                 "tip": "Suitable for year-round cultivation in the Philippines. Thrives best if grown from October to February. Plant it in soil with pH levels between 6 and 6.7.",
-                "image_filename": "ampalaya.png"
+                "image_filename": "ampalaya.jpg"
             },
             {
                 "id": "lettuce",
@@ -127,7 +127,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 7.0",
                 "season": "All summer long",
                 "tip": "Easy-to-grow garden vegetables that you can harvest all summer long. Thrives in well-draining loam soil. Keep the soil moist, especially during hot and dry weather.",
-                "image_filename": "lettuce.png"
+                "image_filename": "lettuce.jpg"
             },
             {
                 "id": "carrot",
@@ -136,7 +136,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 7.0",
                 "season": "Direct seeding in loam soil",
                 "tip": "Carrots love loam soil due to its excellent drainage and nutrient retention. Plant them directly in the loam-mixed soil.",
-                "image_filename": "carrot.png"
+                "image_filename": "carrot.jpg"
             },
             {
                 "id": "beans",
@@ -145,7 +145,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 7.0",
                 "season": "Containers or raised beds",
                 "tip": "Bright red and juicy strawberries thrive in loam-mixed soil. Plant them in containers or raised beds.",
-                "image_filename": "beans.png"
+                "image_filename": "beans.jpg"
             }
         ]
     },
@@ -170,7 +170,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 7.5",
                 "season": "Year-round in Filipino cuisine",
                 "tip": "A leafy green vegetable commonly used in Filipino cuisine. Grows well in various soil types, including vermicast-enriched soil. Harvest young leaves for salads or stir-fries.",
-                "image_filename": "pechay.png"
+                "image_filename": "pechay.jpg"
             },
             {
                 "id": "basil",
@@ -179,7 +179,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 7.5",
                 "season": "Warm with good sunlight",
                 "tip": "A fragrant herb used in cooking and pesto. Thrives in well-draining soil with good sunlight. Plant basil directly in vermicast-enriched soil.",
-                "image_filename": "basil.png"
+                "image_filename": "basil.jpg"
             },
             {
                 "id": "papaya",
@@ -188,7 +188,7 @@ AGRONOMIC_DATABASE: Dict[str, Dict[str, Any]] = {
                 "optimal_ph": "6.0 - 6.5",
                 "season": "Tropical climates",
                 "tip": "Papaya trees love nutrient-rich soil. Vermicast provides essential nutrients for healthy fruit production. Ideal for tropical climates.",
-                "image_filename": "papaya.png"
+                "image_filename": "papaya.jpg"
             }
         ]
     }
